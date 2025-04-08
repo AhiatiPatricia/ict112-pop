@@ -50,5 +50,5 @@ print(f"The sentence has {word_count} words.")
 is an example." Print the modified string.
 """
 word2 = "This is a string and it is an example."
-new_word2 = word2.replace("is", "was")
+new_word2= word2.replace("is", "was")
 print(f"Modified string: {new_word2}")
